@@ -1,7 +1,7 @@
-day,date,month,day_total,hour,mentions,reposts,mentions_change,reposts_change,social_change
-Сб,2,Aug,0,02:00,,,1,-1,0
-Сб,2,Aug,0,01:00,,,10,-3,7
-Пт,1,Aug,13,23:00,,,2,-1,1
-Пт,1,Aug,13,21:00,,,5,-3,2
-Пт,1,Aug,13,20:00,1,6,6,-3,3
-Пт,1,Aug,13,19:00,,,8,-5,3
+day,date,month,day_total,hour,mentions,reposts,mentions_change,reposts_change,social_change,channel,channel_mentions,channel_reposts
+Сб,2,Aug,0,02:00,,,1,-1,0,Nyoka AI,45,1
+Сб,2,Aug,0,02:00,,,1,-1,0,DS/ML lentagram,9,2
+Сб,2,Aug,0,01:00,,,10,-3,7,,,
+Пт,1,Aug,13,21:00,,,5,-3,2,Channel A,7,2
+Пт,1,Aug,13,20:00,1,6,6,-3,3,,,
+Пт,1,Aug,13,19:00,,,8,-5,3,,,
